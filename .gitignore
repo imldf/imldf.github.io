@@ -1,1 +1,4 @@
-_config.yml
+.ruby-version
+.sass-cache
+_site
+.jekyll-metadata
